@@ -1,0 +1,4 @@
+first get the user to enter the hight of the pyramid and it should be from 1 to 8
+using the hight i create a for loop for the rows
+the create a second for loop nested in the first loop keeping in mind the newline command
+this code will get a pyramid as an output but not the wanted
