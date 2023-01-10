@@ -1,1 +1,2 @@
-# Cs_50-Problems
+# Cs50-Problems
+my solution for CS50's problem sets.
