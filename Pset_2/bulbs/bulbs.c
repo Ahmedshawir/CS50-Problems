@@ -22,26 +22,20 @@ int main(void)
         for (int j = 0; j < 8; j++)
         {
             int rem = (temp%2);
-            array[j] = rem;
+            array[j] = rem;//passing 1 or 0 to array[8]
 
             temp = (temp/2);
 
         }
         printf("\n");
-            //now reverse the the array
+            //now reverse the the array[8]
         for (int n = 7; n >= 0;n--)
             {
                 print_bulb(array[n]);
             }
-
     }
             printf("\n");
-
-
 }
-
-
-
 
 void print_bulb(int bit)
 {
