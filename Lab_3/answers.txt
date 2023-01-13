@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: it performed faster than sort 3 in a sorted file (sorted10000.txt)
+
+sort2 uses: merge sort
+
+How do you know?: in a radom file (random10000.txt) it was the fastest run with a real time of 0.065s
+
+sort3 uses: selection sort
+
+How do you know?: it performed slower than sort 1 in a sorted file (sorted10000.txt)
